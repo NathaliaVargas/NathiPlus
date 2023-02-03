@@ -1,4 +1,4 @@
-var listaSeries = ['https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_FMjpg_UX1000_.jpg','https://br.web.img3.acsta.net/pictures/22/10/05/09/42/3385930.jpg','https://noticiasdatv.uol.com.br/media/_versions/recomenda/this-is-us-poster-season-4_fixed_recomenda_big.jpg']
+var listaSeries = ['https://m.media-amazon.com/images/M/MV5BZTdkMGNhZmYtNzAxMy00NWJkLThkN2MtNjVkNzY0NzVlMWQ4XkEyXkFqcGdeQXVyMTA0MDgzNTE1._V1_FMjpg_UX1000_.jpg','https://br.web.img3.acsta.net/pictures/19/12/24/09/27/2970070.jpg','https://br.web.img3.acsta.net/pictures/22/10/05/09/42/3385930.jpg','https://noticiasdatv.uol.com.br/media/_versions/recomenda/this-is-us-poster-season-4_fixed_recomenda_big.jpg']
 var listaNomes = ['Designated Survivor', 'The Rings of Power', 'This is Us']
 
 var listaFilmes = [
